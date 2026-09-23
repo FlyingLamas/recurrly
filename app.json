@@ -10,7 +10,7 @@
     "newArchEnabled": true,
     "ios": {
       "supportsTablet": true,
-      "icon": "./assets/expo.icon"
+      "icon": "./assets/images/expo-logo.png"
     },
     "android": {
       "adaptiveIcon": {
